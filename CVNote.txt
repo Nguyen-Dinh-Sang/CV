@@ -1,20 +1,25 @@
-- Tự thiết kế.
+- Tự thiết kế thì tốt.
+
 - Xếp công việc mới nhất lên trước.
 - Giải thưởng.
 - Thêm các kĩ năng khác (đừng quá nhiều):
 	+ xử lý vấn đề, tìm kiếm....
+
 - Đọc phần mô tả công việc của nhà tuyển dụng yêu cầu chỉnh sửa cv theo yêu cầu của công ty.
-- chuẩn bị cho những gì đã đưa vào cv khi mình phỏng vấn.
-- công việc là những thứ đem lại tiền hoặc được sửa dụng chứ không phải là đồ án bài, tập ở lớp.
-- nên chia ra project bài tập và công việc riêng.
-- đóng vai trò gì trong job đó.
-- sắp xếp tổng thể phải đồng nhất.
 
-- không đủ khả năng thì đừng nên viết bằng tiếng anh.
+- Chuẩn bị cho những gì đã đưa vào cv khi mình phỏng vấn.
 
-- cv không nên viết quá nhiều những thứ đó để trong Portfolio
-- phần sở thích đọc sách thì nên là những sách liên quan đến chuyên ngành ....
+- Công việc là những thứ đem lại tiền hoặc được sửa dụng chứ không phải là đồ án bài, tập ở lớp.
+- Nên chia ra project bài tập và công việc riêng.
+- Đóng vai trò gì trong job đó.
+- Sắp xếp tổng thể phải đồng nhất.
 
-- làm xong vài ngày sau mở ra đọc lại để kiểm tra xem bố cục và chỉnh sửa.
+- Không đủ khả năng thì đừng nên viết bằng tiếng anh.
 
-***cần cho nhà tuyển dụng thấy được họ sẻ được gì: thời gian, tuổi trẻ, nhiệt huyết...
+- CV không nên viết quá nhiều những thứ đó để trong Portfolio
+- Phần sở thích đọc sách thì nên là những sách liên quan đến chuyên ngành ....
+
+- Làm xong vài ngày sau mở ra đọc lại để kiểm tra xem bố cục và chỉnh sửa.
+
+*** Cần cho nhà tuyển dụng thấy được họ sẻ được gì: thời gian, tuổi trẻ, nhiệt huyết...
+*** Cần ghi rõ ràng, trình tự logic và số liệu cụ thể (làm gì -> như thế nào -> nhận được gì).
